@@ -1,1 +1,1 @@
-Anton Yugay                                                                         
+Anton Yugay
