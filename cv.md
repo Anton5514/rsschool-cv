@@ -19,7 +19,7 @@
 ## **Work experience**
 * RS School
 * GO IT School
-## ** My education** 
+## **My education** 
 Chelyabinsk State University
 ## **English language proficiency** 
 Elementary (A1)
