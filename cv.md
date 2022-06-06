@@ -11,10 +11,10 @@
 * Endurance
 * Stress tolerance
 ## **Code example**   
-  <!--Main content section-->
-<div class="main-content-section">
-<!--Abou me section-->
-<div class="about-me-section">
+    <!--Main content section-->
+    <div class="main-content-section">
+    <!--Abou me section-->
+    <div class="about-me-section">
 
 ## **Work experience**
 * RS School
